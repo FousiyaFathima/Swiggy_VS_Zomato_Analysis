@@ -1,54 +1,68 @@
-# Swiggy_VS_Zomato_Analysis
-Swiggy vs Zomato Analytics Excel Dashboard
+# Swiggy vs Zomato Analytics Dashboard
 
-Project Overview
+## Project Overview
 
-This project provides a comparative analysis of Swiggy and Zomato restaurant data through an interactive Excel dashboard. The objective is to highlight key business insights such as revenue trends, customer ratings, cuisine preferences, and city level performance, enabling better decision making.
+This repository showcases my personal **Swiggy vs Zomato Analytics Dashboard**, developed using Microsoft Excel. The project focuses on analyzing restaurant and delivery data to compare the performance of both food delivery platforms. Through interactive dashboards, I transformed raw data into meaningful business insights, enabling data-driven decision-making.
 
-Key Features
+## Key Objectives
 
-•	Revenue comparison between Swiggy and Zomato
-•	Ratings analysis to understand customer satisfaction
-•	City wise performance insights
-•	Cuisine analysis to identify popular food categories
-•	Interactive slicers for easy filtering
-•	Dynamic charts for clear visualization of trends
+* **Data Exploration:** Cleaned and organized restaurant datasets to ensure accurate analysis.
+* **Comparative Analysis:** Evaluated Swiggy and Zomato based on revenue, customer ratings, delivery performance, and cuisine trends.
+* **Business Intelligence:** Designed an interactive dashboard to visualize KPIs and platform performance.
+* **Insight Generation:** Identified trends and patterns to support business and operational decisions.
 
-Tools and Techniques
+## Tech Stack & Methodology
 
-•	Microsoft Excel
-•	Pivot Tables for structured analysis
-•	Slicers for interactivity
-•	Charts and graphs for data visualization
+* **Data Analysis:** Microsoft Excel
+* **Data Modeling:** Pivot Tables & Pivot Charts
+* **Dashboard Design:** Interactive Slicers, KPIs & Dynamic Visualizations
+* **Analytics Techniques:** Comparative Analysis, Trend Analysis & Performance Evaluation
 
-Dataset
+## Dashboard Preview
 
-The dataset covers:
-•	Restaurant details
-•	Revenue figures
-•	Customer ratings
-•	Cuisine categories
-•	Delivery metrics
-•	Platform comparison (Swiggy vs Zomato)
+##	Interactive Slicer
 
-Dashboard Preview
+                      ![Dashboards](ScreenShots/Slicer.png)
 
-•	Interactive Slicer
+## Excel Dashboard View
 
-                      ![Dashboards](Screenshots/Slicer.png)
-
-•	Excel Dashboard View
-
-                            ![Dashboards](Screenshots/DashBoard.png)
-                            ![Dashboards](Screenshots/Dashboard1.png)
-                            ![Dashboards](Screenshots/Dashboard2.png)
+                            ![Dashboards](ScreenShots/DashBoard.png)
+                            ![Dashboards](ScreenShots/Dashboard1.png)
+                            ![Dashboards](ScreenShots/Dashboard2.png)
                             
-Why This Dashboard Stands Out
-
-•	Simple and interactive design that makes insights easy to understand
-•	Smooth navigation with slicers and filters
-•	Actionable findings that can guide marketing, expansion, and customer engagement strategies
 
 
-Author
-F.Fousiya Fathima
+
+## Key Dashboard Insights
+
+* Revenue comparison between Swiggy and Zomato
+* Customer ratings analysis
+* City-wise restaurant performance
+* Cuisine popularity analysis
+* Delivery performance comparison
+* Interactive filtering using slicers
+* Dynamic charts for business insights
+
+## Core Competencies Demonstrated
+
+Through this project, I strengthened practical data analytics skills by:
+
+* **Data Cleaning & Preparation:** Structured raw restaurant data for accurate reporting.
+* **Dashboard Development:** Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers.
+* **Business Analysis:** Compared platform performance through KPIs and trend analysis.
+* **Data Visualization:** Presented complex information using intuitive and interactive visuals.
+* **Analytical Thinking:** Derived actionable insights from business data to support decision-making.
+
+## Learning Outcomes
+
+* Developed an end-to-end Excel analytics project from raw data to dashboard.
+* Improved proficiency in Excel Pivot Tables, Pivot Charts, and Slicers.
+* Enhanced skills in KPI reporting and business data visualization.
+* Gained hands-on experience creating interactive dashboards for real-world business scenarios.
+
+## Author
+
+**Fousiya Fathima**  
+*Aspiring Data Analyst*
+
+> Passionate about transforming raw data into meaningful insights through data visualization and business analytics.
