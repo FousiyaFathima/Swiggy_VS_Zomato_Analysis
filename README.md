@@ -26,16 +26,10 @@ This repository showcases my personal **Swiggy vs Zomato Analytics Dashboard**, 
 
 ## Excel Dashboard View
 
-                           ## Test
-
-  ![Test](./ScreenShots/DashBoard.png)
-                            ![Dashboards](ScreenShots/DashBoard.png)
-                            ![Dashboards](ScreenShots/Dashboard1.png)
-                            ![Dashboards](ScreenShots/Dashboard2.png)
+   ![Dashboards](ScreenShots/DashBoard.png)
+   ![Dashboards](ScreenShots/Dashboard1.png)
+   ![Dashboards](ScreenShots/Dashboard2.png)
                             
-
-
-
 ## Key Dashboard Insights
 
 * Revenue comparison between Swiggy and Zomato
