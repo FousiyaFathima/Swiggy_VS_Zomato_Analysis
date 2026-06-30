@@ -22,10 +22,13 @@ This repository showcases my personal **Swiggy vs Zomato Analytics Dashboard**, 
 
 ##	Interactive Slicer
 
-                      ![Dashboards](ScreenShots/Slicer.png)
+ ![Dashboards](ScreenShots/Slicer.png)
 
 ## Excel Dashboard View
 
+                           ## Test
+
+  ![Test](./ScreenShots/DashBoard.png)
                             ![Dashboards](ScreenShots/DashBoard.png)
                             ![Dashboards](ScreenShots/Dashboard1.png)
                             ![Dashboards](ScreenShots/Dashboard2.png)
